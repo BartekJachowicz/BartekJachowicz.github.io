@@ -30,7 +30,8 @@ h3 {
 	padding: 1%;
 }
 .box:hover{
-	background-color: #e5e5e5;
+	//background-color: #e5e5e5;
+	background-image: url('images/me.jpg');
 }
 
 /* LAYOUT CSS */
